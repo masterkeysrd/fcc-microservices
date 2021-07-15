@@ -4,6 +4,8 @@
   "description": "Timestamp Microservice",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/masterkeysrd/fcc-microservices/issues"
   },
-  "homepage": "https://github.com/masterkeysrd/fcc-microservices#readme"
+  "homepage": "https://github.com/masterkeysrd/fcc-microservices#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
