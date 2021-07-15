@@ -1,0 +1,24 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masterkeysrd/fcc-microservices.git"
+  },
+  "keywords": [
+    "nodejs",
+    "freecodecamp",
+    "js"
+  ],
+  "author": "David Morales <morales.david1997@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masterkeysrd/fcc-microservices/issues"
+  },
+  "homepage": "https://github.com/masterkeysrd/fcc-microservices#readme"
+}
